@@ -4,6 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+
 .mvn
 
 ### STS ###
@@ -14,6 +15,7 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.DS_Store
 
 ### IntelliJ IDEA ###
 .idea
